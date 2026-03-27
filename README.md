@@ -1,4 +1,4 @@
-# 🛡️ VHSYS Sentinel — Frontend
+# 🛡️ React Sentinel — Frontend
 
 Real-time Observability • Task Management • Operational Dashboard
 
@@ -6,7 +6,7 @@ Real-time Observability • Task Management • Operational Dashboard
 [![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
 [![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS_v4-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
-Este repositório contém o frontend do **VHSYS Sentinel**, um painel minimalista em dark mode pensado para equipes de engenharia que precisam de observabilidade em tempo real e controle de tarefas integrado a uma API backend.
+Este repositório contém o frontend do **React Sentinel**, um painel minimalista em dark mode pensado para equipes de engenharia que precisam de observabilidade em tempo real e controle de tarefas integrado a uma API backend.
 
 Resumo rápido:
 
@@ -24,6 +24,22 @@ Resumo rápido:
 - Tratamento padronizado de respostas da API
 - UI responsiva e minimalista baseada em Tailwind CSS
 - Testes unitários com Vitest (hooks e modelos)
+
+---
+
+![alt text](image.png)
+
+---
+
+![alt text](image-1.png)
+
+---
+
+![alt text](image-2.png)
+
+---
+
+![alt text](image-3.png)
 
 ---
 
