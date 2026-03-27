@@ -111,5 +111,6 @@ Erick Tarzia — Staff Software Engineer
 Links:
 
 - https://github.com/ericktarzia
+- https://www.linkedin.com/in/ericktarzia/
 
 ---
