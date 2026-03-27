@@ -100,6 +100,8 @@ npm run dev
 
 O backend expõe endpoints paginados compatíveis com Spring Data (`page`, `size`). O hook `useTasks` já suporta navegação por páginas — ajuste `VITE_API_URL` caso sua API esteja em outra origem.
 
+Repositório da API (backend): https://github.com/ericktarzia/task-api-springboot
+
 ---
 
 ## Autor
